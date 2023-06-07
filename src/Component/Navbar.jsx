@@ -4,7 +4,7 @@ import Menu from "../Assets/Icons/menu.png";
 import Cross from "../Assets/Icons/close.png"
 
 const Navbar = () => {
-    const [menu, setMenu] = useState(false)
+    const [menu, setMenu] = useState(true);
 
     const toggleMenu=()=>{
         setMenu(!menu);
