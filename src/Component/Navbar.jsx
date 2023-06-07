@@ -1,18 +1,20 @@
 import React, { useState } from "react";
 import Styles from "../Styles/navbar.module.css";
 import Menu from "../Assets/Icons/menu.png";
-import Cross from "../Assets/Icons/close.png"
+import Cross from "../Assets/Icons/close.png";
+import User from "../Assets/Icons/profile.png";
 
 const Navbar = () => {
-    const [menu, setMenu] = useState(true);
+  const [menu, setMenu] = useState(true);
 
-    const toggleMenu=()=>{
-        setMenu(!menu);
-    }
+  const toggleMenu = () => {
+    setMenu(!menu);
+  };
   return (
     <div className={Styles.main}>
       <div className={Styles.navbar}>
-        <div className="logo">
+        <div className={Styles.logo}>
+          <img alt="logo" src="https://startupz.world/images/white-logo.png" />
           <a href="#">Welcome to my StartUp</a>
         </div>
         <ul className={Styles.link}>
@@ -20,38 +22,47 @@ const Navbar = () => {
             <a href="#">Home</a>
           </li>
           <li>
-            <a href="#">About</a>
+            <a href="#">StartUp</a>
           </li>
           <li>
-            <a href="#">Services</a>
+            <a href="#">Investors</a>
           </li>
           <li>
-            <a href="#">Contact</a>
+            <a href="#">
+              <img alt="user" src={User} />
+              Login
+            </a>
           </li>
         </ul>
         <a href="#" className={Styles.actionBtn}>
-          Get Started
+          Add Listing {">"}
         </a>
-        <div  className={Styles.toggleBtn}>
-          <img alt="menu" src={menu?Menu:Cross} onClick={toggleMenu}/>
+        <div className={Styles.toggleBtn}>
+          <img alt="menu" src={menu ? Menu : Cross} onClick={toggleMenu} />
         </div>
       </div>
-      <div style={menu?{display:'none'}:null} className={Styles.dropDownMenu}>
+      <div
+        style={menu ? { display: "none" } : null}
+        className={Styles.dropDownMenu}
+      >
         <li>
           <a href="#">Home</a>
         </li>
         <li>
-          <a href="#">About</a>
+          <a href="#">StartUp</a>
         </li>
         <li>
-          <a href="#">Services</a>
+          <a href="#">Investors</a>
         </li>
         <li>
-          <a href="#">Contact</a>
+          <a href="#">
+            <img alt="user" src={User} />
+            Login
+          </a>
         </li>
         <li>
           <a href="#" className={Styles.actionBtn}>
-            Get Started
+            Add Listing {">"}
           </a>
         </li>
       </div>
