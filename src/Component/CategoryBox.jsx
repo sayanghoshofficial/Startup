@@ -1,6 +1,5 @@
 import React from "react";
 import Styles from "../Styles/explore.module.css";
-// import { category } from "../Data/data";
 
 const CategoryBox = ({ img, sub }) => {
   return (

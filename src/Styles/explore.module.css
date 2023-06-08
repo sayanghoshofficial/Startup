@@ -62,11 +62,11 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .CategoryBox {
-  width: 400px;
+  width: 300px;
   padding: 10px;
   border-radius: 20px;
   background-color: #0d0675;
