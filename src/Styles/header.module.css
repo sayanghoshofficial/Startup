@@ -8,7 +8,7 @@
 }
 .leftSide{
     position: absolute;
-    margin-top: 100px;
+    margin-top: 300px;
     margin-left: 100px;
     width: 75%;
     height: 500px;
@@ -17,7 +17,7 @@
     font-size: 100px;
 }
 .inputBox{
-    margin-top: 10px;
+    margin-top: 50px;
     width: 70vw;
     height: 200px;
     background-color: black;
@@ -50,6 +50,12 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.inputBox button:hover{
+    transform: scale(1.2);
+    background-color: rgb(104, 4, 4);
 }
 
 /* Responsive */

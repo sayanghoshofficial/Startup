@@ -4,7 +4,7 @@ import Search from "../Assets/Icons/magnifying-glass.png"
 
 const Header = () => {
   return (
-    <div className={Styles.header}>
+    <div className={Styles.header} >
       <div className={Styles.leftSide}>
         <h1 className={Styles.fontMax}>Discover</h1>
         <p className={Styles.fontMax}>amazing startups</p>
