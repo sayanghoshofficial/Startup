@@ -1,3 +1,35 @@
+# Divisha Technologies (Frontend Intern+ppo)  - ROUND 1 || ASSESSMENT
+![1](https://github.com/sayanghoshofficial/Startup/assets/99132893/e7f0b060-64bf-43ff-9b3c-0389ee081c21)
+![2](https://github.com/sayanghoshofficial/Startup/assets/99132893/903f7a5b-1a92-4c89-a3e0-6d8ecc7f6b00)
+![3](https://github.com/sayanghoshofficial/Startup/assets/99132893/6cfa9b5e-6c95-4b09-88d5-3e3bd2b19c24)
+![4](https://github.com/sayanghoshofficial/Startup/assets/99132893/e04c5c2e-e793-49c6-b877-1754e8a1c97a)
+![5](https://github.com/sayanghoshofficial/Startup/assets/99132893/5a31d4fa-416c-4912-a243-0c47902dca92)
+![6](https://github.com/sayanghoshofficial/Startup/assets/99132893/058f1cac-a408-484f-a83e-45cf1806150d)
+![7](https://github.com/sayanghoshofficial/Startup/assets/99132893/dc96dfe1-a626-47bd-a8bc-d804e55a4b5d)
+![8](https://github.com/sayanghoshofficial/Startup/assets/99132893/89eaed1a-e262-413a-b6e6-f43623df6293)
+![9](https://github.com/sayanghoshofficial/Startup/assets/99132893/4c249f12-b996-4e57-895d-ff7bc83f903c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
