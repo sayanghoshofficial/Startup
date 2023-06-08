@@ -3,6 +3,7 @@ import Styles from "../Styles/navbar.module.css";
 import Menu from "../Assets/Icons/menu.png";
 import Cross from "../Assets/Icons/close.png";
 import User from "../Assets/Icons/profile.png";
+import Logo from "../Assets/Icons/white-logo.png"
 
 const Navbar = () => {
   const [menu, setMenu] = useState(true);
@@ -14,7 +15,7 @@ const Navbar = () => {
     <div className={Styles.main}>
       <div className={Styles.navbar}>
         <div className={Styles.logo}>
-          <img alt="logo" src="https://startupz.world/images/white-logo.png" />
+          <img alt="logo" src={Logo} />
           <a href="#">Welcome to my StartUp</a>
         </div>
         <ul className={Styles.link}>

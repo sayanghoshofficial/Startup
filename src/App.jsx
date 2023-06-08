@@ -1,10 +1,11 @@
-import { Header, Navbar } from "./Component";
+import {  Expolre, Header, Navbar } from "./Component";
 
 function App() {
   return (
     <>
       <Navbar />
       <Header/>
+      <Expolre/>
     </>
   );
 }
