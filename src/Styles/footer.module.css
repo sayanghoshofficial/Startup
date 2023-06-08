@@ -60,6 +60,9 @@
   .footerCopyRight{
     padding: 20px;
   }
+  .footerCopyRight b{
+    cursor: pointer;
+  }
   .footerCopyRight b:hover{
     color: orangered;
   }
