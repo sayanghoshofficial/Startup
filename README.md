@@ -1,6 +1,6 @@
 # Divisha Technologies (Frontend Intern+ppo)  - ROUND 1 || ASSESSMENT
-![1](https://github.com/sayanghoshofficial/Startup/assets/99132893/e7f0b060-64bf-43ff-9b3c-0389ee081c21)
-![2](https://github.com/sayanghoshofficial/Startup/assets/99132893/903f7a5b-1a92-4c89-a3e0-6d8ecc7f6b00)
+![1](https://github.com/sayanghoshofficial/Startup/assets/99132893/67fb75c0-5424-4b84-bbd2-ce2d35fa3d0f)
+![2](https://github.com/sayanghoshofficial/Startup/assets/99132893/3d75b62c-4155-45b8-a198-9cf319fbb386)
 ![3](https://github.com/sayanghoshofficial/Startup/assets/99132893/6cfa9b5e-6c95-4b09-88d5-3e3bd2b19c24)
 ![4](https://github.com/sayanghoshofficial/Startup/assets/99132893/e04c5c2e-e793-49c6-b877-1754e8a1c97a)
 ![5](https://github.com/sayanghoshofficial/Startup/assets/99132893/5a31d4fa-416c-4912-a243-0c47902dca92)
